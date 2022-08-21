@@ -1,0 +1,350 @@
+[
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "电子书"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "网络原创"
+          },
+          {
+            "categoryId": 3,
+            "categoryName": "数字杂志"
+          },
+          {
+            "categoryId": 4,
+            "categoryName": "多媒体图书"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "电子书刊"
+      }
+    ],
+    "categoryId": 1,
+    "categoryName": "图书、音像、电子书刊"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "手机"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "对讲机"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "手机通讯"
+      }
+    ],
+    "categoryId": 2,
+    "categoryName": "手机"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "平板电视"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "空调"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "大家电"
+      }
+    ],
+    "categoryId": 3,
+    "categoryName": "家用电器"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "数码相机"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "单反相机"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "摄影摄像"
+      }
+    ],
+    "categoryId": 4,
+    "categoryName": "数码"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "宠物主粮"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "宠物零食"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "宠物生活"
+      }
+    ],
+    "categoryId": 5,
+    "categoryName": "家居家装"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "笔记本"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "超级本"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "电脑整机"
+      }
+    ],
+    "categoryId": 6,
+    "categoryName": "电脑办公"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "炒锅"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "煎锅"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "烹饪锅具"
+      }
+    ],
+    "categoryId": 7,
+    "categoryName": "厨具"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "纸品湿巾"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "衣物清洁"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "清洁用品"
+      }
+    ],
+    "categoryId": 8,
+    "categoryName": "个护化妆"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "T恤"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "衬衫"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "女装"
+      }
+    ],
+    "categoryId": 9,
+    "categoryName": "服饰内衣"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "男表"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "女表"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "钟表"
+      }
+    ],
+    "categoryId": 10,
+    "categoryName": "钟表"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "商务休闲鞋"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "正装鞋"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "流行男靴"
+      }
+    ],
+    "categoryId": 11,
+    "categoryName": "鞋靴"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "益生菌"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "米粉"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "健康辅食"
+      }
+    ],
+    "categoryId": 12,
+    "categoryName": "母婴"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "钱包"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "手拿包"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "潮流女包"
+      }
+    ],
+    "categoryId": 13,
+    "categoryName": "礼品箱包"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "其他特产"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "新疆"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "地方特产"
+      }
+    ],
+    "categoryId": 14,
+    "categoryName": "食品饮料、保健食品"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "小叶紫檀"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "黄花梨"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "木手串"
+      }
+    ],
+    "categoryId": 15,
+    "categoryName": "珠宝"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "机油"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "正时皮带"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "维护保养"
+      }
+    ],
+    "categoryId": 16,
+    "categoryName": "汽车用品"
+  },
+  {
+    "categoryChild": [
+      {
+        "categoryChild": [
+          {
+            "categoryId": 1,
+            "categoryName": "综合训练器"
+          },
+          {
+            "categoryId": 2,
+            "categoryName": "其他大型器械"
+          }
+        ],
+        "categoryId": 1,
+        "categoryName": "健身训练"
+      }
+    ],
+    "categoryId": 17,
+    "categoryName": "运动健康"
+  }
+]
