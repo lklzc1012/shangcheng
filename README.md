@@ -2,14 +2,15 @@
 # 简介
 
    **商城**为Web电商项目，基于Vue 2.6实现，使用了Vue全家桶、ES6、Axios、Promise等技术，后台数据通过[Mock.js](https://github.com/nuysoft/Mock)搭建，项目包括首页、搜索列表、商品详情、购物车、订单、支付、用户登录、用户注册等多个子模块。
-  
-  
-  
+<br>
+<br>
+<br>
+
 # Demo
 [Demo](https://lklzc1012.github.io/shangcheng/)
-    
-    
-    
+<br>
+<br>
+<br>
 
 # 功能实现
 - 使用[Mock.js](https://github.com/nuysoft/Mock)搭建后台数据，模拟json后端数据，实现前后端分离，如三级联动导航数据、搜索列表数据、商品详情数据等
