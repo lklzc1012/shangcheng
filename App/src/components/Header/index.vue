@@ -47,11 +47,20 @@
 
 <script>
 
+import {removeToken} from "@/utils/token";
+
 export default {
   name: "index",
   computed: {
     userName() {
       return this.$store.state.User.userName
+    }
+  },
+  methods: {
+    logout() {
+      removeToken()
+      this.$store.commit('REMOVEUSERNAME')
+      this.$router.push('/home')
     }
   }
 }
